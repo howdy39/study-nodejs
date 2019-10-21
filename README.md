@@ -1,1 +1,6 @@
-https://app.codegrid.net/entry/2019-nodejs-cli-1
+- [Node.js で作る CLI アプリケーション 第 1 回 CLI アプリケーションに必要な機能](https://app.codegrid.net/entry/2019-nodejs-cli-1)
+- [Node.js で作る CLI アプリケーション 第 2 回 Commander.js：前編](https://app.codegrid.net/entry/2019-nodejs-cli-2)
+- [Node.js で作る CLI アプリケーション 第 3 回 Commander.js：後編](https://app.codegrid.net/entry/2019-nodejs-cli-3)
+- [Node.js で作る CLI アプリケーション 第 4 回 yargs：前編](https://app.codegrid.net/entry/2019-nodejs-cli-4)
+- [Node.js で作る CLI アプリケーション 第 5 回 yargs：中編](https://app.codegrid.net/entry/2019-nodejs-cli-5)
+- [Node.js で作る CLI アプリケーション 第 6 回 yargs：後編](https://app.codegrid.net/entry/2019-nodejs-cli-6)
